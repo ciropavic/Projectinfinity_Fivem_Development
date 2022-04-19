@@ -1,2 +1,2 @@
-cd /d E:\Fivem\Projectinfinity\citizen\server-data
-E:\Fivem\Projectinfinity\FXServer.exe +exec server.cfg
+cd /d D:\Fivem\Projectinfinity\citizen\server-data
+D:\Fivem\Projectinfinity\FXServer.exe +exec server.cfg
